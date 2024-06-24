@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "appname":"Video Downloader",
+            "fb_ad":"no",
+            "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fb_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fb_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "adx_ad":"no",
+            "adx_banner": "ca-app-pub-7583840475519818/2284126130",
+            "adx_inter":"ca-app-pub-7583840475519818/4193525053",
+            "adx_native": "ca-app-pub-7583840475519818/7344881123",
+            "adx_oppenapp": "ca-app-pub-7583840475519818/7344881123",
+            "interval":2,
+            "link_ad":"no",
+            "link_quiz":"https://play4128.atmequiz.com/start",
+            "link_quiz_banner":
+            
+            [
+                "https://statussaver541.github.io/randomcall/banner/1.png",
+                "https://statussaver541.github.io/randomcall/banner/2.png",
+                "https://statussaver541.github.io/randomcall/banner/3.png",
+                "https://statussaver541.github.io/randomcall/banner/4.png",
+                "https://statussaver541.github.io/randomcall/banner/5.png",
+                "https://statussaver541.github.io/randomcall/banner/6.png"
+               
+            
+            ],
+            "link_game":"https://play4128.atmegame.com/start",
+          "link_game_banner":
+            
+            [
+                "https://statussaver541.github.io/randomcall/banner/1.png",
+                "https://statussaver541.github.io/randomcall/banner/2.png",
+                "https://statussaver541.github.io/randomcall/banner/3.png",
+                "https://statussaver541.github.io/randomcall/banner/4.png",
+                "https://statussaver541.github.io/randomcall/banner/5.png",
+                "https://statussaver541.github.io/randomcall/banner/6.png"
+               
+            
+            ],
+            "console": "",
+            "privacy_policy": "",
+            "banner_otherapp_show": "",
+            "link_otherapp_package_name": ""
+        }
+    ]
+}
